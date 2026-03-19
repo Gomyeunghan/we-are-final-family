@@ -3,4 +3,6 @@
   flex-flow: column nowrap;
   height: 100vh;
   background-color: var(--root-bg);
+  width: 1280px;
+  margin: auto;
 }
